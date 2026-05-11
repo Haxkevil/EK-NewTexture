@@ -1,4 +1,4 @@
-# EQ-NewTexture
+# EK-NewTexture
 
 > Antes estava feio, então mudei algumas coisas.
 > Lembre-se de extrair os arquivos.
@@ -8,8 +8,8 @@
 
 | Pacote | Conteúdo |
 |--------|----------|
-| **EQ-Texture Parte 1** | `graphics` • `portraits` |
-| **EQ-Texture Parte 2** | `tmx` • `ui` |
+| **EK-Texture Parte 1** | `graphics` • `portraits` |
+| **EK-Texture Parte 2** | `tmx` • `ui` |
 
 ---
 
