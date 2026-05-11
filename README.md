@@ -1,7 +1,7 @@
 # EQ-NewTexture
 
 > Antes estava feio, então mudei algumas coisas.
-
+> Lembre-se de extrair os arquivos.
 ---
 
 ## Conteúdo dos Pacotes
